@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\appweather\\WeatherApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C163A192-DF7C-474A-859C-221459917E2F}|WeatherApps\\WeatherApps.csproj|f:\\appweather\\weatherapps\\weatherapps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C163A192-DF7C-474A-859C-221459917E2F}|WeatherApps\\WeatherApps.csproj|solutionrelative:weatherapps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C163A192-DF7C-474A-859C-221459917E2F}|WeatherApps\\WeatherApps.csproj|f:\\appweather\\weatherapps\\weatherapps\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C163A192-DF7C-474A-859C-221459917E2F}|WeatherApps\\WeatherApps.csproj|solutionrelative:weatherapps\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\appweather\\WeatherApps\\WeatherApps\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherApps\\Form1.cs",
+              "ToolTip": "F:\\appweather\\WeatherApps\\WeatherApps\\Form1.cs",
+              "RelativeToolTip": "WeatherApps\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:39:57.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "F:\\appweather\\WeatherApps\\WeatherApps\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "WeatherApps\\WeatherInfo.cs",
+              "ToolTip": "F:\\appweather\\WeatherApps\\WeatherApps\\WeatherInfo.cs",
+              "RelativeToolTip": "WeatherApps\\WeatherInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:17:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

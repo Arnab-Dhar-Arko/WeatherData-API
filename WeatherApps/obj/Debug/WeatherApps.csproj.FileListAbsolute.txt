@@ -1,0 +1,5 @@
+F:\appweather\WeatherApps\WeatherApps\obj\Debug\WeatherApps.csproj.AssemblyReference.cache
+F:\appweather\WeatherApps\WeatherApps\obj\Debug\WeatherApps.Form1.resources
+F:\appweather\WeatherApps\WeatherApps\obj\Debug\WeatherApps.Properties.Resources.resources
+F:\appweather\WeatherApps\WeatherApps\obj\Debug\WeatherApps.csproj.GenerateResource.cache
+F:\appweather\WeatherApps\WeatherApps\obj\Debug\WeatherApps.csproj.CoreCompileInputs.cache
